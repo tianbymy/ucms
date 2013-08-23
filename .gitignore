@@ -1,0 +1,15 @@
+\#*
+log/*.log
+.rvmrc
+tmp/*
+Gemfile.lock
+Gemfile.local
+spec/dummy/log/*
+/coverage
+spec/dummy/tmp/*
+db/*.sqlite3
+public/uploads/*
+public/*.pdf
+public/download/*
+config/mongoid.yml
+.sass-cache/
