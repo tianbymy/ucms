@@ -16,6 +16,8 @@ end
 gem 'jquery-rails'
 gem 'slim-rails'
 
-gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',:github => 'anjlab/bootstrap-rails'
+gem 'anjlab-bootstrap-rails',
+    :require => 'bootstrap-rails',
+    :github => 'tianbymy/bootstrap-rails'
 
 gem 'unicorn'
